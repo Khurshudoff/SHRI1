@@ -27,6 +27,9 @@
     "webpack-dev-server": "^3.1.9"
   },
   "dependencies": {
+    "@bem-react/classname": "^1.1.1",
+    "@bem-react/core": "^1.2.0",
+    "@bem-react/di": "^1.0.3",
     "@types/hls.js": "^0.10.2",
     "@types/jquery": "^3.3.22",
     "@types/node": "^10.12.0",
